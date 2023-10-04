@@ -80,8 +80,11 @@ footer a:hover {
     grid-gap: 2.0rem;
 }
 .consejo {
-    border: 1px solid #ffed00;
+    background-color: #ffc2d1;
+    border: 1px solid #fb6f92;
     padding: 2.0rem;
+    max-width: 60%;
+    margin: 0 auto; 
 }
 .consejo h3 {
     font-size: 1.5rem;
@@ -194,7 +197,7 @@ p {
         margin-bottom: 2.3rem;
     }
     .consejo {
-        border: 0.4rem solid #ffed00;
+        border: 0.4rem solid #ffc2d1;
         padding: 2.0rem;
         margin-bottom: 2.3rem;
     }
@@ -220,12 +223,9 @@ form {
     font-size: x-large;
     
 }
-
 .campo {
     margin-bottom: 2rem;
 }
-
-
 label {
     display: block;
     margin-bottom: 0.9rem;
